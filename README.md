@@ -1,2 +1,0 @@
-# MyPersonalProject
-for personal reasons
